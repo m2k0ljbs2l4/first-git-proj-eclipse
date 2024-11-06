@@ -12,6 +12,9 @@ public class FirstGit {
         System.out.println("Master add");
         System.out.println("Master add");
         System.out.println("Master add");
+        System.out.println("task123");
+        System.out.println("task123");
+        System.out.println("task123");
 	}
 
 }
