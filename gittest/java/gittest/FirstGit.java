@@ -9,6 +9,9 @@ public class FirstGit {
         System.out.println("Developer top");
         System.out.println("Developer top");
         System.out.println("Developer top");
+        System.out.println("Master add");
+        System.out.println("Master add");
+        System.out.println("Master add");
 	}
 
 }
